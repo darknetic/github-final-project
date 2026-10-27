@@ -1,20 +1,19 @@
-# Contributing Guidelines
+# Contributing
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
+
 1. Fork the repository.
-2. Create a new branch for your changes.
+2. Create a branch for your changes.
 3. Make your changes and test them.
-4. Commit your changes with a clear commit message.
-5. Push your branch to your fork.
-6. Open a pull request describing your changes.
+4. Commit your changes with a clear message.
+5. Open a pull request describing your changes.
 
-## Reporting Bugs
-When reporting a bug, describe the issue clearly and provide steps to reproduce it.
+## Reporting Issues
 
-## Suggesting Enhancements
-Suggestions for new features and improvements are welcome. Explain the proposed change and its benefits.
+If you find a bug or have a suggestion, open an issue and include clear steps to reproduce the problem or explain the proposed improvement.
 
 ## Code of Conduct
-All contributors are expected to follow the project's Code of Conduct.
+
+Please be respectful and follow the project's Code of Conduct when participating in discussions or submitting contributions.
