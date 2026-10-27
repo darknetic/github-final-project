@@ -23,6 +23,11 @@ This Code of Conduct applies within project spaces and when an individual offici
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers. All complaints will be reviewed and investigated fairly.
 
 ## Enforcement Guidelines
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+
 Project maintainers may take appropriate action depending on the severity of the violation, including a warning, temporary suspension, or permanent removal from the project community.
 
 ## Attribution
